@@ -1,3 +1,37 @@
-*{
-    font-size: large        ;
+body{
+    background-color: azure;
+    font-style: italic;
+    padding: 30px;
+    
+    
+}
+
+h1{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-weight:900;
+    text-decoration:underline;
+    text-align: center;
+    
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    
+}
+
+.trial{
+    color: blueviolet;
+
+}
+.OO1{
+    text-decoration: underline;
+}
+
+
+ol{
+    list-style:upper-latin;
+
 }
